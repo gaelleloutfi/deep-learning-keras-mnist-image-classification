@@ -45,17 +45,18 @@ git clone https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classi
 
 ## Repository Structure
 Below is a description of each file in the repository:
+```
 .
-├── GaelleLoutfi_MNIST.ipynb          # Main Jupyter Notebook for training and evaluating the MNIST models
-├── MNIST_dataset_example.png         # Sample visualization of MNIST digits
-├── UniversiteParisCite_logo_horizontal_couleur_RVB.png  # University logo (used for presentation/reporting)
+├── GaelleLoutfi_MNIST.ipynb          # Main Jupyter Notebook for training and evaluating the MNIST models  
+├── MNIST_dataset_example.png         # Sample visualization of MNIST digits  
+├── UniversiteParisCite_logo_horizontal_couleur_RVB.png  # University logo (used for presentation/reporting)  
 │
-├── train_images.npy                  # Training images (NumPy array)
-├── train_labels.npy                  # Training labels corresponding to training images
-├── test_images.npy                   # Test images (NumPy array)
-└── test_labels.npy                   # Test labels corresponding to test images
-├── README.md                         # Project overview and instructions
-
+├── train_images.npy                  # Training images (NumPy array)  
+├── train_labels.npy                  # Training labels corresponding to training images   
+├── test_images.npy                   # Test images (NumPy array)  
+└── test_labels.npy                   # Test labels corresponding to test images  
+├── README.md                         # Project overview and instructions  
+```
 ## Running the Project
 Start Jupyter Notebook:
 ```bash
