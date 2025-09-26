@@ -68,5 +68,7 @@ Open our Notebook:
 - Run the cells in order and visualize the results cell-by-cell
 ## Contacts
 - Academic Email: gaelle.loutfi@etu.u-paris.fr   
-- Personal Emails: gaelle.loutfi@gmail.com / gaelle.loutfi@lau.edu   
+- Personal Emails: gaelle.loutfi@gmail.com / gaelle.loutfi@lau.edu
+
+
 **Repository:** [gaelleloutfi/deep-learning-keras-mnist-image-classification](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification)
