@@ -65,7 +65,7 @@ pixi run jupyter notebook
 Open our Notebook:
 - Navigate to the project folder in the browser (Jupyter will open automatically)
 - Open `GaelleLoutfi_MNIST.ipynb`
-- 
+- Run the cells in order and visualize the results cell-by-cell
 ## Contacts
 - Academic Email: gaelle.loutfi@etu.u-paris.fr
 - Personal Emails: gaelle.loutfi@gmail.com / gaelle.loutfi@lau.edu
