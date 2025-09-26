@@ -1,6 +1,6 @@
 # Deep Learning Keras MNIST Image Classification
 
-This repository contains a deep learning project leveraging Keras to classify noisy MNIST handwritten digit images. The project explores various neural network architectures, including dense neural networks, convolutional neural networks (CNNs), and ResNet models. It also includes implementations for cross-validation and performance evaluation.
+This repository contains a deep learning project leveraging Keras to classify noisy [MNIST](http://yann.lecun.com/exdb/mnist/) handwritten digit images. The project explores various neural network architectures, including dense neural networks, convolutional neural networks (CNNs), and ResNet models. It also includes implementations for cross-validation and performance evaluation.
 
 ## Getting Started
 - 💡[Context](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification/blob/main/README.md#context)
