@@ -3,11 +3,11 @@
 This repository contains a deep learning project leveraging Keras to classify noisy MNIST handwritten digit images. The project explores various neural network architectures, including dense neural networks, convolutional neural networks (CNNs), and ResNet models. It also includes implementations for cross-validation and performance evaluation.
 
 ## Getting Started
-- 💡[Context]
-- ⚙️[Setup Environment]
-- 📂[Repository Structure]
-- 🚀[Running the project]
-- 💌[Contacts]
+- 💡[Context](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification/blob/main/README.md#context)
+- ⚙️[Setup Environment](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification/blob/main/README.md#setup-environment)
+- 📂[Repository Structure](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification/blob/main/README.md#repository-structure)
+- 🚀[Running the Project](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification/blob/main/README.md#running-the-project)
+- 💌[Contacts](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification/blob/main/README.md#contacts)
 - 
 ## Context
 - Classification of MNIST handwritten digit images, including handling noisy data
@@ -38,10 +38,9 @@ To verify that Pixi is installed correctly, run the following command:
 ```bash
 pixi --version
 ```
-Clone and access the Github repository 
+Clone the Github repository 
 ```bash
 git clone https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification.git
-cd deep-learning-keras-mnist-image-classification
 ```
 
 ## Repository Structure
@@ -57,30 +56,16 @@ Below is a description of each file in the repository:
 └── test_labels.npy                   # Test labels corresponding to test images
 ├── README.md                         # Project overview and instructions
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- See `requirements.txt` for required Python packages.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification.git
-   cd deep-learning-keras-mnist-image-classification
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Running the Project
-
-To train a model:
+## Running the Project
+Start Jupyter Notebook:
 ```bash
-python train.py --model cnn
+pixi run jupyter notebook
 ```
-
+Open our Notebook:
+- Navigate to the project folder in the browser (Jupyter will open automatically)
+- Open `GaelleLoutfi_MNIST.ipynb`
+- 
+## Contacts
+- Academic Email: gaelle.loutfi@etu.u-paris.fr
+- Personal Emails: gaelle.loutfi@gmail.com / gaelle.loutfi@lau.edu
 **Repository:** [gaelleloutfi/deep-learning-keras-mnist-image-classification](https://github.com/gaelleloutfi/deep-learning-keras-mnist-image-classification)
